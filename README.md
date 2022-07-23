@@ -39,7 +39,7 @@ NOTE: All Chains use a single P2P Node network that is paired with Puter.
 ### The Aly 
 > This chain only contains Data and no Hevy-D. Users create a Post and the Hevy-D is separated and sent to the `Blockchain` and the `Data` remains in `The Aly`
 ### The Guter 
-> Similar to `The Aly`, `The Guter` holds all comments recorded on the network. Again no Hevy-D is actually stored in the Guter, only ‘Data’
+> Similar to `The Aly`, `The Guter` holds all comments recorded on the network. Again no Hevy-D is actually stored in the Guter, only `Data`
 
 The main concept we will discuss in doc 1 is the Aly and the Guter, which leads into Moontax. 3 attributes the Money Tree uses.
 
