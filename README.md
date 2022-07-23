@@ -118,7 +118,7 @@ Hevy-D, Puter, and The Dogecoin community will then have a place to share projec
 
 ## Puter 2 
 
-> `Puter 2` or `PuterBooth` is designed to be downloaded on any old laptop, RaspPi, ect and stored in the basement, closet ect. Puter 2 acts as your mainframe pair with the Hevy-D network. Users have the capability to add old graphic cards, processors, ram, harddrives, ect to not only expand a user's computing power but to supply that hardware to the Puter Cloud if desired(additional payouts included). 
+> `Puter 2` or `PuterBooth` is designed to be downloaded on any old laptop, RaspPi, ect and stored in the basement, closet ect. Puter 2 acts as your mainframe paired with the Hevy-D network. Users have the capability to add old graphic cards, processors, ram, harddrives, ect to not only expand a user's computing power but to supply that hardware to the Puter Cloud if desired(additional payouts included). 
 
 ## Puter 3
 
@@ -141,7 +141,7 @@ Hevy-D, Puter, and The Dogecoin community will then have a place to share projec
 
 ## How is Puter further different from Microsoft, Apple & Linux?
 
-> Operating systems that exist today were designed to be distributed to the mass market, fast and in bulk. Each system is a cookie cut imprint leaving the user lost in the wind. Puter offers a different starting point. Puter caters to each user specifically. When a user installs Puters, a Base version is given, our designed algorithms will learn how each user behaves on their own systems, and alter systems to your individual needs.  All personal data is then stored on your own PuterBooth that contains all the encryption and data protections services that have been designed by The Ark developers. The best part is that we use the same data protection services that you use. Open sourced, running independently, updated by paid network developers.
+> Operating systems that exist today were designed to be distributed to the mass market, fast and in bulk. Each system is a cookie cut template, leaving the user lost in the wind. Puter offers a different starting point. Puter caters to each user specifically. When a user installs Puters, a Base version is given, our designed algorithms will learn how each user behaves on their own systems, and alter systems to your individual needs.  All personal data is then stored on your own PuterBooth that contains all the encryption and data protections services that have been designed by The Ark developers. The best part is that we use the same data protection services that you use. Open sourced, running independently, updated by paid network developers.
 
 # SPAZ
 
@@ -157,7 +157,7 @@ The biggest benefit of Puter is allowing this open sourced private AI access to 
 > "Yes odd, the conversation was about ~ and in conclusion ~ "
 
 
-This is the potential of Puter & SPAZ, Puter can record all audio from your devices, documenting all meetings and encounters the user experiences. After all, companies do this already, we just don't have access to said data. With Puter 2, Data storage and privacy is not an issue. Just plug additional unused resources into your home P2 and expand your system processing power & storage space.
+This is the potential of Puter & SPAZ, `Puter` can record all audio from your devices, documenting all meetings and encounters the user experiences. After all, companies do this already, we just don't have access to said data. `SPAZ` is an internal system that will manage, organize, and retrieve your data. With Puter 2, Data storage and privacy is not an issue. Just plug additional unused resources into your home P2 and expand your system processing power & storage space.
 
 Lastly, Puter Aims to be ready to pair with Neuralink like systems before they are released. Puter will already have a unique AI catered to the user, pair that with 6 month worth of Neuralink Brain data could result in a similar version of a personal Cortana. This would solidify our position in the markets. 
 
@@ -189,6 +189,7 @@ The Doge Plan outlines how to use The Ark for the initial 15 years of the Networ
 
 > It should be noted that, Hevy-D and the Money Tree were created as by-products to fund The full mission. Helping Humans. Puter is the system that will hold all future projects created by myself oddfl3x and in hopes to develop your projects as well. Before I could start the real projects I needed somewhere that was safe, and allowed me to connect with other like minded individuals for this is not achievable alone. This is only Phase 1, and the real results will be shown in Phase 2 & 3.
 
+Private Alpha release scheduled for Q1 2023
 
 If you would like to join the initial development team please reach on [discord](https://discord.gg/KH9pJgECor) @ me on titter @oddfl3x with something about M42 / Mission42.
 
