@@ -100,7 +100,7 @@ By Burning Dogecoin to access Puter, each user automatically starts generating i
 ### How would The Ark survive?
 
 
-To start our API will subtract a set 22% of all Dogecoin before being sent to the burn address. Initially this pooled amount will pay developers for their input to the all inclusive OS. Within 4 years from launch, the model outlines that The Ark will be completely self-sufficient without the need for the additional 20%. The Ark will then host an Annual DogeParty once a year where the Additional 20% will be burned in one Event, at a different location world wide, each year.
+To start our API will subtract a set 20% of all Dogecoin before being sent to the burn address. Initially this pooled amount will pay developers for their input to the all inclusive OS. Within 4 years from launch, the model outlines that The Ark will be completely self-sufficient without the need for the additional 20%. The Ark will then host an Annual DogeParty once a year where the Additional 20% will be burned in one Event, at a different location world wide, each year.
 
 Hevy-D, Puter, and The Dogecoin community will then have a place to share projects, collaborate with other community members, see the latest Network updates and Businesses released by The Ark, as well as have an amazing good ass time. Tickets fees will also be paid in Dogecoin where all profits will be added to the DogeParty burn pool.
 
