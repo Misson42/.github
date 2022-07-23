@@ -60,7 +60,7 @@ Next the network keeps track of each users total MoonTax spend, where a leaderbo
 
 ### Payout Tax
 
-> Second is a function called `PAYDAY`. 16.9% is collected from every post or comment. This collected amount is pooled & paid out to all active users every 42 hours. An algorithm has been designed to payout users according to their `Total Monthly Moontax` spent amount. This accomplished 2 initial goals, a desire to use the network to compete for higher payouts, and  highest spending accounts are statistically proven to return next month and repeat the process benefiting the total user base.
+> Second is a function called `PAYDAY`. 16.9% is collected from every post or comment. This collected amount is pooled & paid out to all active users every 42 hours. An algorithm has been designed to payout users according to their `Total Monthly Moontax` spent amount. This accomplishes 2 things, a desire to use the network to compete for higher payouts, and  highest spending accounts are statistically proven to return next month and repeat the process benefiting the total user base.
 
 ### Creator Tax
 
