@@ -4,22 +4,21 @@
 
 ## The Mission of The Ark is to Free Humans from current worldly restraints, giving participants a community of people to join, stimulating an environment where we can continue to help Humans World Wide by creating cutting edge technology, funded by the Money Tree.
 
-### Mission 42 is a plan to help the human race survive long term. Here in only contains the foundation (Phase 1) and not the full ‘Plan’, in hopes to gather the initial team. 
+### Mission 42 is a plan to help the human race survive long term. Here in only contains Phase 1 of 3 in hopes to gather the initial team. 
 
-
-### The Foundation of The Ark includes,
+### Phase 1 of The Ark includes,
 
 > A full stelf standing Blockchain called `Hevy-D`.
 Hevy-D was developed with Basic Human Income as its core attribute
 
-> An Operating System called `Puter`, that will run the Blockchain
-Puter was developed to Protect users Information + Give users access to any and all available resources to proceed in personal projects.
+> An Operating System called `Puter`, that will run the Blockchain.
+Puter was developed to Protect users Information + Give users access to any and all available resources to proceed in personal projects
 
 
 
 ### Combined the Money Tree was sprouted.
 
-Money Tree is a process catered to free human by allowing them to earn bassic income from just using the system as designed. Currently there are 8 different ways each user will be able to generate income, with options still being added. We will discuss the initial 4 Branches of Money Tree after we walk through the 4 initial contained Blockchains
+Money Tree is a process catered to free humans by allowing them to earn bassic income from just using the system as designed. Currently there are 8 different ways each user will be able to generate income, with options still being added. We will discuss the initial 4 Branches of Money Tree after we walk through the 4 initial contained Blockchains
 
 
 
@@ -34,17 +33,17 @@ NOTE: All Chains use a single P2P Node network that is paired with Puter.
 ### The Aly 
 > This chain only contains Data and no Hevy-D. Users create a Post and the Hevy-D is separated and sent to the `Blockchain` and the `Data` remains in `The Aly`
 ### The Guter 
-> Similar to `The Aly`, The Guter holds all comments recorded on the network. Again no Hevy-D is actually stored in the Guter, only ‘Data’
+> Similar to `The Aly`, `The Guter` holds all comments recorded on the network. Again no Hevy-D is actually stored in the Guter, only ‘Data’
 
 The main concept we will discuss in doc 1 is the Aly and the Guter, which leads into Moontax. 3 attributes the Money Tree uses.
 
-> To begin simply, Hevy-D contains a media tracking system that pays content creators. First every post generates a unique QR code from the transactions .uuid that is paired with the media (pic, gif, sound, video, text, ect). As users scroll with our app, they can scan the posts integrated QR uuid and interact with the creator directly. For every Post or Comment `MoonTax` is charged to the initializer.. 
+> To begin simply, Hevy-D contains a media tracking system that pays content creators. First, every post generates a unique QR code from the transactions .uuid that is paired with the media (pic, gif, sound, video, text, ect). As users scroll with our app, they can scan the posts integrated QR uuid and interact with the creator directly. For every Post or Comment `MoonTax` is charged to the initializer.. 
 (~20% for posts/comments[Moontax] & <1% for Hevy-D transactions[DogeBurner]. 
 
 
 When a user wants to create a post or comment, they must set their own individual `Hevy-D` price point. (IE if one really wanted to be seen, they could set an astronomically large amount and appear at the top of the feed or comment list). During the interaction with the network, The network returns the individual set amount of `Hevy-D` to the initializer minus `MoonTax`. 
 
-Next the network keeps track of each users total MoonTax spend, where a leaderboard system will display the top ranking, Dogeburners, MoonTax Spenders, and Hevy-D Burners, these attributes are used by the PAYDAY algorithm to determine teacher individuals network usage. Further development to create a level playing field is essential for users worldwide and the health of the network. (Some ppl might not have Doge to even get into the network, they will need help)
+Next the network keeps track of each users total MoonTax spend, where a leaderboard system will display the top ranking, `Dogeburners`, `MoonTax Spenders`, and `Hevy-D Burners`, these attributes are used by the `PAYDAY` algorithm to determine teacher individuals network usage. Further development to create a level playing field is essential for users worldwide and the health of the network. (Some ppl might not have Doge to even get into the network, they will need help)
 
 
 ## MoonTax
@@ -66,7 +65,7 @@ These systems are catered for the user by the user. Moontax and Payout algorithm
 
 ## Network Vote
 
-> Included in the Authority chain is a Community Voting system. This system was designed to be a happy medium between the network Authorities, and network Users. When the User or the Authorities would like to see dramatic network changes (% change ect) up to 5 options will be given for the users to vote on. With Dramatic Left & right arguments, as well as a fence line option. Users will then vote by staking their `Auth Tokens` into one of the 3-5 options. After the vote users will de-stake their tokens and Authorities will implement the changes on the next Puter Update. Authorities are Forbidden from voting as they must protect the network while user Tokens are Destaked from the Forger Pool.
+> Included in the Authority chain is a Community Voting system. This system was designed to be a happy medium between the `Network Authorities`, and `Network Users`. When the User or the Authorities would like to see dramatic network changes (% change ect) up to 5 options will be given for the users to vote on. With Dramatic Left & right arguments, as well as a fence line option. Users will then vote by staking their `Auth Tokens` into one of the 3-5 options. After the vote users will de-stake their tokens and Authorities will implement the changes on the next Puter Update. Authorities are Forbidden from voting as they must protect the network while user Tokens are Destaked from the Forger Pool.
 
 
 # How is Hevy-D created?
@@ -85,10 +84,10 @@ These systems are catered for the user by the user. Moontax and Payout algorithm
 
 ## The User
 
-By Burning Dogecoin to assess Puter, each user automatically starts generating income from the Money tree. Users are then given full access to Puter, which in short should be the last subscription service any user should have to pay for. Puters plan is to redesign all systems from the ground up, with a few core attributes in mind,
+By Burning Dogecoin to access Puter, each user automatically starts generating income from the Money tree. Users are then given full access to Puter, which in short should be the last subscription service any user should have to pay for. Puters plan is to redesign all systems from the ground up, with a few core attributes in mind,
 
-Protect users information by adding no new personal data to DB’s world wide
-Redesign all applications within one Operating system to address current accessibility issues
+- Protect users information by adding no new personal data to DB’s world wide
+- Redesign all applications within one Operating system to address current accessibility issues
 
 ## The Ark
 
@@ -140,7 +139,7 @@ Hevy-D, Puter, and The Dogecoin community will then have a place to share projec
 
 # SPAZ
 
-> The biggest benefit of Puter is allowing this open sourced private AI access to all your data. Your personal information and data habits will then be paired to our base AI version of Siri or Alexa to create a unique personal experience. 
+The biggest benefit of Puter is allowing this open sourced private AI access to all your data. Your personal information and data habits will then be paired to our base AI version of Siri or Alexa to create a unique personal experience. 
 
 
 > 'Hey Spaz, last summer I was visiting my friends at that cabin in the wood do you remember that experience"
@@ -182,7 +181,7 @@ The Doge Plan outlines how to use The Ark for the initial 15 years of the Networ
 
 ## With enough network activity The Ark has the potential to put Doge on a Leash. 
 
-> It should be noted that, Hevy-D and the Money Tree were created as by-products to fund The full mission. Helping Humans. Puter is the system that will hold all future projects created by myself oddfl3x and in hope to develop your projects as well. Before I could start the real projects I needed somewhere that was safe, and allowed me to connect with other like minded individuals for this is not achievable alone. This is only Phase 1, and the real results will be shown in Phase 2 & 3.
+> It should be noted that, Hevy-D and the Money Tree were created as by-products to fund The full mission. Helping Humans. Puter is the system that will hold all future projects created by myself oddfl3x and in hopes to develop your projects as well. Before I could start the real projects I needed somewhere that was safe, and allowed me to connect with other like minded individuals for this is not achievable alone. This is only Phase 1, and the real results will be shown in Phase 2 & 3.
 
 
 If you would like to join the initial development team please reach on [discord](https://discord.gg/KH9pJgECor) @ me on titter @oddfl3x with something about M42 / Mission42.
