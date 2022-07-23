@@ -24,7 +24,7 @@ Puter was developed to Protect users Information + Give users access to any and 
 
 ### Combined the Money Tree was sprouted.
 
-Money Tree is a process catered to free humans by allowing them to earn bassic income from just using the system as designed. Currently there are 8 different ways each user will be able to generate income, with options still being added. We will discuss the initial 4 Branches of Money Tree after we walk through the 4 initial contained Blockchains
+Money Tree is a process catered to free humans by allowing us to earn bassic income from just using the system as designed. Currently there are 8 different ways each user will be able to generate income, with options still being added. We will discuss the initial 4 Branches of Money Tree after we walk through the 4 initial contained Blockchains
 
 
 
