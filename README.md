@@ -114,7 +114,7 @@ Hevy-D, Puter, and The Dogecoin community will then have a place to share projec
 
 ## PUTER
 
-> `Puter` is the base open source code available to everyone located on `Puters Cloud`. Users are able to download the Puter OS and install it on any current device today. Puter is Software not Hardware. Users will soon shop for a device they want to use and install Puter when they get home vs using the preinstalled OS that came with the device.
+> `Puter` is the base open source code available to everyone located on `Puters Cloud`. Users are able to download the Puter OS and install it on any current device. Puter is Software not Hardware. Users will soon shop for a device they want to use and install Puter when they get home vs using the preinstalled OS that came with the device.
 
 ## Puter 2 
 
