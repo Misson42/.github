@@ -71,7 +71,7 @@ These systems are catered for the user by the user. Moontax and Payout algorithm
 
 ## Network Vote
 
-> Included in the Authority chain is a Community Voting system. This system was designed to be a happy medium between the `Network Authorities`, and `Network Users`. When the User or the Authorities would like to see dramatic network changes (% change ect) up to 5 options will be given for the users to vote on. With Dramatic Left & right arguments, as well as a fence line option. Users will then vote by staking their `Auth Tokens` into one of the 3-5 options. After the vote users will de-stake their tokens and Authorities will implement the changes on the next Puter Update. Authorities are Forbidden from voting as they must protect the network while user Tokens are Destaked from the Forger Pool.
+> Included in the Authority chain is a Community Voting system. This system was designed to be a happy medium between the `Network Authorities`, and `Network Users`. When the User or the Authorities would like to see dramatic network changes (% change ect) up to 5 options will be given for the users to vote on. With Dramatic Left & Right arguments, as well as a fence line option. Users will then vote by staking their `Auth Tokens` into one of the 3-5 options. After the vote users will de-stake their tokens and Authorities will implement the changes on the next Puter Update. Authorities are Forbidden from voting as they must protect the network while user Tokens are Destaked from the Forger Pool.
 
 
 # How is Hevy-D created?
