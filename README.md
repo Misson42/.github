@@ -14,7 +14,7 @@
 
 ### Phase 1 of The Ark includes,
 
-> A full stelf standing Blockchain called `Hevy-D`.
+> A full self standing Blockchain called `Hevy-D`.
 Hevy-D was developed with Basic Human Income as its core attribute
 
 > An Operating System called `Puter`, that will run the Blockchain.
