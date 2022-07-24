@@ -106,7 +106,7 @@ Hevy-D, Puter, and The Dogecoin community will then have a place to share projec
 
 # Puter
 
-> One thing is for sure. When I'm able to create an AI simulated from my last 6 months of brain data, I am NOT storing that on any system that exists today. I want that in my control under my rules and regulations with my own lock and key. Puter will give every user this access.
+> One thing is for sure. When I'm able to create an AI simulated from my last 6 months of brain data, I am NOT storing that on any system that exists today. I want that in my control under my rules and regulations with my own lock and key. Puter will give every user this control.
 
 
 
