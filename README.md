@@ -49,7 +49,7 @@ The main concept we will discuss in doc 1 is the Aly and the Guter, which leads 
 
 When a user wants to create a post or comment, they must set their own individual `Hevy-D` price point. (IE if one really wanted to be seen, they could set an astronomically large amount and appear at the top of the feed or comment list). During the interaction with the network, The network returns the individual set amount of `Hevy-D` to the initializer minus `MoonTax`. 
 
-Next the network keeps track of each users total MoonTax spend, where a leaderboard system will display the top ranking, `Dogeburners`, `MoonTax Spenders`, and `Hevy-D Burners`, these attributes are used by the `PAYDAY` algorithm to determine teacher individuals network usage. Further development to create a level playing field is essential for users worldwide and the health of the network. (Some ppl might not have Doge to even get into the network, they will need help)
+Next the network keeps track of each users total MoonTax spend, where a leaderboard system will display the top ranking, `Dogeburners`, `MoonTax Spenders`, and `Hevy-D Burners`, these attributes are used by the `PAYDAY` algorithm to determine each individuals network usage. Further development to create a level playing field is essential for users worldwide and the health of the network. (Some ppl might not have Doge to even get into the network, they will need help)
 
 
 ## MoonTax
