@@ -194,6 +194,6 @@ Private Alpha release scheduled for Q1 2023
 If you would like to join the initial development team please reach on [discord](https://discord.gg/KH9pJgECor) @ me on titter @oddfl3x with something about M42 / Mission42.
 
 Otherwise we will see you upon release. 
-Thank you for reading.
+Thank you for being here, it means something to me.
 
 -odd fl3x
