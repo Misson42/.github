@@ -187,7 +187,7 @@ The Doge Plan outlines how to use The Ark for the initial 15 years of the Networ
 
 ## With enough network activity The Ark has the potential to put Doge on a Leash. 
 
-> It should be noted that, Hevy-D and the Money Tree were created as by-products to fund The full mission. Helping Humans. Puter is the system that will hold all future projects created by myself oddfl3x and in hopes to develop your projects as well. Before I could start the real projects I needed somewhere that was safe, and allowed me to connect with other like minded individuals for this is not achievable alone. This is only Phase 1, and the real results will be shown in Phase 2 & 3.
+> It should be noted that, Hevy-D and the Money Tree were created as by-products to fund the full Mission. Helping Humans. Puter is the system that will hold all future projects created by myself oddfl3x and in hopes to develop your projects as well. Before I could start the real projects I needed somewhere that was safe, and allowed me to connect with other like minded individuals for this is not achievable alone. This is only Phase 1, and the real results will be shown in Phase 2 & 3.
 
 Private Alpha release scheduled for Q1 2023
 
