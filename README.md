@@ -8,7 +8,7 @@
 
 ## The Mission of The Ark is to Free Humans from current worldly restraints. Each participants gains a community of people to join in which we stimulate an environment where we can continue to help Humans World Wide by creating cutting edge technology; funded by the Money Tree.
 
-### Mission 42 is a plan to help the human race survive long term. Here in only contains Phase 1 of 3 in hopes to gather the initial team. 
+### Mission 42 is a plan to help the human race survive long term. Here in only contains Phase 1 of 4 in hopes to gather the initial team. 
 
 ### Phase 1 of The Ark includes,
 
