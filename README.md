@@ -1,7 +1,5 @@
 # Mission 42
 
-``` R U STinky? ```
-
 ### Contained
 - The Mission
 - Hevy-D
