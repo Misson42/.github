@@ -28,7 +28,7 @@ Money Tree is a process catered to free humans by allowing us to earn bassic inc
 
 # Hevy-D
 
-NOTE: All Chains use a single P2P Node network that is paired with Puter. 
+NOTE: All Chains use a single P2P Node network that is paired with Puter our OS. 
 
 ### Authority Chain 
 > This chain is incharge of the network. Auth Tokens are used by the algorithm to select forgers for each chain. Distribution of Auth Tokens described in Doc 2.
